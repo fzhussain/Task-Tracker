@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Revise JavaScript Basics",
+      "day": "Today at 15:30",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Build an Expense tracker App",
+      "day": "Tomorrow at 20:00",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Build a Chat App",
+      "day": "Monday at 13:30",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Attend Online Webinar",
+      "day": " Sunday at 11:30",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
